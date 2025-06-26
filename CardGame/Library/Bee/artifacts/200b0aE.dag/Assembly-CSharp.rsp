@@ -373,6 +373,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.51f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.51f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/BasicCard.cs"
+"Assets/Scripts/BuildHelper.cs"
 "Assets/Scripts/CardPattern.cs"
 "Assets/Scripts/Cards/Card.cs"
 "Assets/Scripts/DeckManager.cs"

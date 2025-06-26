@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.Build.Reporting;
@@ -133,3 +134,4 @@ public class BuildHelper
         Debug.Log("所有平台构建完成！检查Builds文件夹。");
     }
 }
+#endif

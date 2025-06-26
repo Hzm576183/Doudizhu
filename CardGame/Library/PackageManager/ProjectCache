@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/hdwdoc/Desktop/proj1/game1/CardGame/Packages/manifest.json
+    m_FilePath: /Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638865474750000000
     m_Hash: 1847162058
   m_LockFileStatus:
-    m_FilePath: /Users/hdwdoc/Desktop/proj1/game1/CardGame/Packages/packages-lock.json
+    m_FilePath: /Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/hdwdoc/Desktop/proj1/game1/CardGame/Packages
+m_ProjectPath: /Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Packages
 m_EditorVersion: 6000.0.51f1 (01c3ff5872c5)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.2d.sprite@a1146c20a947
+  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.2d.sprite@a1146c20a947
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -106,7 +106,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -199,7 +199,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.4
   source: 1
-  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.toolchain.macos-arm64-linux-x86_64@53a346a622fd
+  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.toolchain.macos-arm64-linux-x86_64@53a346a622fd
   assetPath: Packages/com.unity.toolchain.macos-arm64-linux-x86_64
   name: com.unity.toolchain.macos-arm64-linux-x86_64
   displayName: Toolchain MacOS Arm64 Linux x64
@@ -3019,7 +3019,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.10
   source: 1
-  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.sysroot@7bbbb9339c14
+  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.sysroot@7bbbb9339c14
   assetPath: Packages/com.unity.sysroot
   name: com.unity.sysroot
   displayName: Sysroot Base
@@ -3118,7 +3118,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.9
   source: 1
-  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e
+  resolvedPath: /Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e
   assetPath: Packages/com.unity.sysroot.linux-x86_64
   name: com.unity.sysroot.linux-x86_64
   displayName: Sysroot Linux x64

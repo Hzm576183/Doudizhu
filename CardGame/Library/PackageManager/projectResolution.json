@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "/Users/hdwdoc/Desktop/proj1/game1/CardGame/Packages",
+    "projectPath": "/Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Packages",
     "unityVersion": "6000.0.51f1"
   },
   "inputs": [
-    "/Users/hdwdoc/Desktop/proj1/game1/CardGame/Packages/manifest.json",
-    "/Users/hdwdoc/Desktop/proj1/game1/CardGame/Packages/packages-lock.json",
+    "/Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Packages/manifest.json",
+    "/Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Packages/packages-lock.json",
     "/Applications/Unity/Hub/Editor/6000.0.51f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.2d.sprite@1.0.0": {
       "name": "com.unity.2d.sprite",
       "displayName": "2D Sprite",
-      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.2d.sprite@a1146c20a947",
+      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.2d.sprite@a1146c20a947",
       "fingerprint": "a1146c20a94767d627b9db262ae136cedef9c2c7",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
@@ -22,7 +22,7 @@
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -32,7 +32,7 @@
     "com.unity.toolchain.macos-arm64-linux-x86_64@2.0.4": {
       "name": "com.unity.toolchain.macos-arm64-linux-x86_64",
       "displayName": "Toolchain MacOS Arm64 Linux x64",
-      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.toolchain.macos-arm64-linux-x86_64@53a346a622fd",
+      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.toolchain.macos-arm64-linux-x86_64@53a346a622fd",
       "fingerprint": "53a346a622fd7e04d2465157c5a807c30fac712e",
       "editorCompatibility": "2021.3.0a1",
       "version": "2.0.4",
@@ -314,7 +314,7 @@
     "com.unity.sysroot@2.0.10": {
       "name": "com.unity.sysroot",
       "displayName": "Sysroot Base",
-      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.sysroot@7bbbb9339c14",
+      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.sysroot@7bbbb9339c14",
       "fingerprint": "7bbbb9339c143f6fbccaeb0a52c77b9217b35a71",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.10",
@@ -324,7 +324,7 @@
     "com.unity.sysroot.linux-x86_64@2.0.9": {
       "name": "com.unity.sysroot.linux-x86_64",
       "displayName": "Sysroot Linux x64",
-      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/CardGame/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e",
+      "resolvedPath": "/Users/hdwdoc/Desktop/proj1/game1/Doudizhu/CardGame/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e",
       "fingerprint": "1998d1c7730e48fa49f28d983fececfc9cbd970b",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.9",
